@@ -1,3 +1,5 @@
+#get install app version
+#pip freeze
 Babel==2.2.0
 blinker==1.4
 coverage==4.0.3
